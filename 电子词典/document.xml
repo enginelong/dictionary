@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document Version="8.0.4" DocGuid="{4968ff09-607b-46db-8e5b-0f737867102f}">
+    <Properties>
+        <AutoLayout V="1"/>
+        <TimelineWidth V="1000"/>
+        <CalloutLayout V="1"/>
+        <ShowGroupName V="0"/>
+        <Dpi V="1"/>
+        <ActiveIndex V="0"/>
+        <ScreenWidth V="1920"/>
+        <ScreenHeight V="1080"/>
+        <Platform V="win"/>
+        <ModifyPlatform V="win"/>
+        <Creator V="Admin"/>
+        <Modifier V="Admin"/>
+        <CreatedDate V="2020-09-25 00:36:59"/>
+        <ModifiedDate V="2020-09-25 00:51:15"/>
+        <Pages V="page"/>
+    </Properties>
+    <GanttOption>
+        <WorkDay V="1;1;1;1;1;0;0"/>
+        <MajorTick V="3"/>
+        <MinorTick V="0"/>
+        <StartDate V="0"/>
+        <FinishDate V="0"/>
+        <StartTime V="28800"/>
+        <FinishTime V="57600"/>
+        <UnitWidth V="100"/>
+        <ChangeMinor V="0"/>
+    </GanttOption>
+    <MarkSheet/>
+</Document>
